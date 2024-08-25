@@ -1,0 +1,9 @@
+package com.akash.withoutOCP;
+
+public class Runner {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}
